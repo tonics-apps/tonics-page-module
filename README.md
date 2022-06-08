@@ -1,2 +1,2 @@
-# tonics-page-module
+# Tonics Page Module
 Contains Tonics Page Module Releases
